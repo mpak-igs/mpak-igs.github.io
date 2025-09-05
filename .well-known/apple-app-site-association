@@ -1,20 +1,25 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appIDs": [
-                    "24W432KL4D.com.example.deck-jeans"
-                ],
-                "paths": [
-                    "*"
-                ],
-                "components": [
-                    {
-                        "/": "/*"
-                    }
-                ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "24W432KL4D.com.example.deck-jeans"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
-    }
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "24W432KL4D.com.example.deck-jeans"
+    ]
+  }
 }
