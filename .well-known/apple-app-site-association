@@ -1,38 +1,38 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "24W432KL4D.com.example.deck-jeans"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/jeans/*": "/*"
-          }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "24W432KL4D.com.example.deck-jeans"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/jeans/*": "/*"
+                    }
+                ]
+            },
+            {
+                "appIDs": [
+                    "24W432KL4D.com.example.deck-mobile-2"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/deck/*": "/*"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "appIDs": [
-          "24W432KL4D.com.example.deck-mobile-2"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/deck/*": "/*"
-          }
+    },
+    "webcredentials": {
+        "apps": [
+            "24W432KL4D.com.example.deck-jeans"
         ]
-      }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "24W432KL4D.com.example.deck-jeans"
-    ]
-  }
+    }
 }
