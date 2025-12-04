@@ -4,14 +4,27 @@
     "details": [
       {
         "appIDs": [
-          "24W432KL4D.com.example.deck-jeans"
+          "24W432KL4D.com.example.deck-jeans",
         ],
         "paths": [
           "*"
         ],
         "components": [
           {
-            "/": "/*"
+            "/jeans/*": "/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "24W432KL4D.com.example.deck-mobile-2"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/deck/*": "/*"
           }
         ]
       }
