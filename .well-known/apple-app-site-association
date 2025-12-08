@@ -24,7 +24,7 @@
                 ],
                 "components": [
                     {
-                        "/deck/*": "/*"
+                        "/deck/*": "/home/*"
                     }
                 ]
             }
