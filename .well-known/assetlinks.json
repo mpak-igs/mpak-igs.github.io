@@ -5,7 +5,7 @@
     "package_name": "com.example.deck_mobile2",
     "sha256_cert_fingerprints":
     ["98:BC:B4:D8:AA:66:4C:07:52:26:40:E9:D3:C9:25:92:85:37:BC:52:5F:7F:75:87:D8:29:D1:A9:7E:A6:91:0C"]
-  }
+  },
   "relation_extensions": {
     "delegate_permission/common.handle_all_urls": {
       "dynamic_app_link_components": [
